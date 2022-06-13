@@ -1,1 +1,2 @@
 print ("this is first exersice in our projrct")
+salam hale ma enja khobe ast ama to bavar nakone
