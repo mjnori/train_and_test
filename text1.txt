@@ -5,3 +5,7 @@ setade mobarezr
 print (ln"
 print names 
 print fararu 
+names of colleage 
+reza abbasi
+ali shirmejad 
+mohsen athari
